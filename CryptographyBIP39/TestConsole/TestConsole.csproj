@@ -7,4 +7,8 @@
         <Nullable>enable</Nullable>
     </PropertyGroup>
 
+    <ItemGroup>
+      <ProjectReference Include="..\CryptographyBIP39\CryptographyBIP39.csproj" />
+    </ItemGroup>
+
 </Project>
